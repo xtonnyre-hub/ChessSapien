@@ -1,2 +1,0 @@
-# ChessSapien
-Ajedrez Sapientia 
